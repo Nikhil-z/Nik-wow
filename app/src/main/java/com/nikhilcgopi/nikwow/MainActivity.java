@@ -5,8 +5,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.nikhilcgopi.nikwow.model.ProductModel;
-import com.nikhilcgopi.nikwow.model.ProductResponse;
+import com.nikhilcgopi.nikwow.model.retrofit.ProductModel;
+import com.nikhilcgopi.nikwow.model.retrofit.ProductResponse;
 import com.nikhilcgopi.nikwow.network.rest.ApiClient;
 import com.nikhilcgopi.nikwow.network.rest.ApiInterface;
 

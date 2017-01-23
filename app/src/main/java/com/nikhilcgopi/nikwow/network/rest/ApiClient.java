@@ -10,11 +10,6 @@ public class ApiClient {
     // single product url
     private static final String url_product_detials = "http://api.nicx.me/";
 
-    // url to update product
-    private static final String url_update_product = "http://10.0.2.2/android_connect/update_product.php";
-
-    // url to delete product
-    private static final String url_delete_product = "http://10.0.2.2/android_connect/delete_product.php";
 
     private static Retrofit retrofit = null;
 

@@ -1,4 +1,4 @@
-package com.nikhilcgopi.nikwow.model;
+package com.nikhilcgopi.nikwow.model.retrofit;
 
 import com.google.gson.annotations.SerializedName;
 
